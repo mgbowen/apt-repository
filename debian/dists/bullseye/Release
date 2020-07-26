@@ -1,13 +1,13 @@
 Suite: bullseye
 Architectures: amd64
-Components: windows-fido-bridge
-Date: Sun, 26 Jul 2020 00:31:18 -0000
+Components: main
+Date: Sun, 26 Jul 2020 16:00:16 -0000
 MD5Sum:
- d4a8e54700e1cffe1696407736f11372      748 windows-fido-bridge/binary-amd64/Packages
- dc4a0900fac7ab8d3c6d395acb7191e1      503 windows-fido-bridge/binary-amd64/Packages.gz
+ 2254e1d4fef4b182cef431398369352e      733 main/binary-amd64/Packages
+ 3c1b63193b6a5e927f699eacaf027a13      503 main/binary-amd64/Packages.gz
 SHA1:
- ec47a9d1e0a28c096f06fb1efc1fb4b8ca0d4248      748 windows-fido-bridge/binary-amd64/Packages
- 2ee5e5cc0b41d971866bc19d70dca40baa35c470      503 windows-fido-bridge/binary-amd64/Packages.gz
+ d9a67a62eceb87d93852e2bf1e140763fe5f1147      733 main/binary-amd64/Packages
+ 6a344852b94365eb43e1c4d1431250f4f25bc419      503 main/binary-amd64/Packages.gz
 SHA256:
- 4eba136e3a4b5fe829302c9ec896a63f035f5766f3e127568af841b29f1265b3      748 windows-fido-bridge/binary-amd64/Packages
- 68710199500c5dff8a9797c3131ba716714ffb45d9c8106cf5386dd61311b8db      503 windows-fido-bridge/binary-amd64/Packages.gz
+ a4647294e595587e41930ec6965c09c047c0eb6323578a4f593fcb88443aa634      733 main/binary-amd64/Packages
+ fd9c001b35c55b8b00713555330468f7a23f540c2232eb0292be96f4abd8bae1      503 main/binary-amd64/Packages.gz

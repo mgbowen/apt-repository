@@ -3,30 +3,30 @@ Hash: SHA512
 
 Suite: bullseye
 Architectures: amd64
-Components: windows-fido-bridge
-Date: Sun, 26 Jul 2020 00:31:18 -0000
+Components: main
+Date: Sun, 26 Jul 2020 16:00:16 -0000
 MD5Sum:
- d4a8e54700e1cffe1696407736f11372      748 windows-fido-bridge/binary-amd64/Packages
- dc4a0900fac7ab8d3c6d395acb7191e1      503 windows-fido-bridge/binary-amd64/Packages.gz
+ 2254e1d4fef4b182cef431398369352e      733 main/binary-amd64/Packages
+ 3c1b63193b6a5e927f699eacaf027a13      503 main/binary-amd64/Packages.gz
 SHA1:
- ec47a9d1e0a28c096f06fb1efc1fb4b8ca0d4248      748 windows-fido-bridge/binary-amd64/Packages
- 2ee5e5cc0b41d971866bc19d70dca40baa35c470      503 windows-fido-bridge/binary-amd64/Packages.gz
+ d9a67a62eceb87d93852e2bf1e140763fe5f1147      733 main/binary-amd64/Packages
+ 6a344852b94365eb43e1c4d1431250f4f25bc419      503 main/binary-amd64/Packages.gz
 SHA256:
- 4eba136e3a4b5fe829302c9ec896a63f035f5766f3e127568af841b29f1265b3      748 windows-fido-bridge/binary-amd64/Packages
- 68710199500c5dff8a9797c3131ba716714ffb45d9c8106cf5386dd61311b8db      503 windows-fido-bridge/binary-amd64/Packages.gz
+ a4647294e595587e41930ec6965c09c047c0eb6323578a4f593fcb88443aa634      733 main/binary-amd64/Packages
+ fd9c001b35c55b8b00713555330468f7a23f540c2232eb0292be96f4abd8bae1      503 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE9LKsJy+Vu0bJk5zohu7UTvnOjUAFAl8d2WMACgkQhu7UTvnO
-jUCU4Q//Z85VFJAbVVSWqY5GF1KFM0lh9RYrn3K4HOygV6AjvqPppzFrc0ZGnct4
-U+RX5gW2KRQlE/vQxCFyCU64lLwX8hpTgbRWjNnmMK70OJWlhLu1wXDBwWRhOUPd
-ypvxnlz+gWFfP0Aw82t9pBS38x+DGEtk63FAYUHEiUzJSUUpVmyz44wkxDEqiln9
-cB03Md150NEt2ze7aN0OQEPcFnvOtXZidpcfHzOLsmUM/8FRM8WtSR7JGh90A34N
-p58htfeVf1rAI3WgVIm+bDxLElokgf3cUNdOhjhefIweBGz+Bz5CiV8T6ljiPtI/
-DaaA7E554kcnyLyQtuMvFdeALafPsE/M0L6Bxp1wchNdD3hQzOGMrKbNk8vMcEV7
-qKil8qdZAwpUT4Tox+UYWs6fd0dLQCW8uF9h7SGlw7ZX3tCLCYZic3p4ROpIDmM4
-MhFkgOCiVR45580sQmN39H/jrqZ1IYBtFpCDYMTsiNcf7kinqnV/fh0UZ19v0ZrR
-jsZT6lpXPYYMspK8+5CKXkzzfW/BIKkMa7RCV1OwHBphTj2AQHftmM9ZkcjVCqH7
-wAwBNKaq78B9xih+dzwHhPcC/8XtYj5EKUbxTcOfNXmu7ldYF04UM4Pc0hJ+o/jy
-4VHBbsD1OV9YKx1NdGcmI1l2C4ezWDCULqZz5vKQZAax3enNPf0=
-=jDQH
+iQIzBAEBCgAdFiEE9LKsJy+Vu0bJk5zohu7UTvnOjUAFAl8d4QwACgkQhu7UTvnO
+jUCp4w//dQANE1xFIAVdRrW/GOliq24R5LqWxQXoobURNUpoq94PqucIR+FpRSsK
+vwqhGj2BQHZMU0YwOWi4FDiI6bueDbU+xCz2QVaRutE1kEQvLb3l+Zkf+ri/+GKP
+jIAe92zudrHxeFOw19arj5O7a3pT1btwwhqh5tIVxQOUsaK/mMvWkh1/ydXTZvvP
+0xi5iraU/b4IBu98ijsEuWUe/xN7ddzS3DwpvH8GKxDnjQW78Oawf4HhiWncCnvY
+x+r7Ot0hxvfrHT7ueizl2MAMha/MYAI/7p8GrKzA9rqjAS4EgUfLdUfxCqw6E0cH
+qvpIQ02dKghOpwUvt2OCOIhpq7C/kUCS4N1kqxuzuOo8r7pT67vic1rh621pboVP
+nUMITXDo9g484gs8m/a4eh3u5VZEP5FEVvhMYwOJ78FiubV2OmdbpDPhPh5rjAfg
+EHE83GZrdPjpM+T2EocAb2b3GNCSpH6CSV0YuM59Zszojuae2L9QSLwzEikm/9WD
+SPsIvyUoMibiqokUmVPtseOQXHkH/L+AMHZ0ffbwEE94JZ6QNsqhw7YJUqKWvwpg
+PqpsI8WwTxgtbCQIyRtrFOugkCNUbRvVnHHFwZh9wNkkDhgFDyREml5+NfpR5H1J
+4gSatccSI1wqKWRI/O/O++IQOo3SfDz1ek5OE9lqIiyICwNA3Ws=
+=jRln
 -----END PGP SIGNATURE-----
