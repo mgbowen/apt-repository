@@ -1,6 +1,6 @@
-# apt-repository
+# mgbowen/apt-repository
 
-To install packages from this repository:
+Source code for this repository is [on GitHub](https://github.com/mgbowen/apt-repository).
 
 ### Debian bullseye
 
