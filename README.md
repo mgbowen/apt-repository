@@ -1,4 +1,4 @@
-# mgbowen/apt-repository
+# apt-repository
 
 Source code for this repository is [on GitHub](https://github.com/mgbowen/apt-repository).
 
