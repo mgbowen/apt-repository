@@ -1,0 +1,18 @@
+Package: windows-fido-bridge
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Matthew Bowen <matthew@mgbowen.com>
+Installed-Size: 3377
+Depends: openssh-client (>=1:8.3), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Filename: dists/bullseye/windows-fido-bridge/binary-amd64/windows-fido-bridge_1.0.0_amd64.deb
+Size: 853116
+MD5sum: 403eef3052713bbf0c8f0881a263e420
+SHA1: a9c2349f9d61dc8958eb822bce04ec6429163b37
+SHA256: 1b94e08cf079efce45071bf81eee5c7217dbf0dbddb078d2e99214ac7737f09a
+Section: devel
+Priority: optional
+Description: an OpenSSH security key middleware for WSL
+ windows-fido-bridge is an OpenSSH security key middleware that allows you
+ to use a FIDO2/U2F security key (e.g. a YubiKey) to SSH into a remote server
+ from WSL.
+
