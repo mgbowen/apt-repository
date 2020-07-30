@@ -7,7 +7,7 @@ Source code for this repository is [on GitHub](https://github.com/mgbowen/apt-re
 ```
 sudo apt install apt-transport-https ca-certificates curl gpg
 
-curl https://apt.mgbowen.dev/mgbowen-apt-repository.asc | sudo apt-key add -
+sudo apt-key adv --keyserver keys.openpgp.org --recv-keys 59E68EAC9C749457
 echo 'deb https://apt.mgbowen.dev/debian/ bullseye main' \
     | sudo tee /etc/apt/sources.list.d/mgbowen.list > /dev/null
 sudo apt update
